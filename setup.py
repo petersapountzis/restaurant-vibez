@@ -1,0 +1,1 @@
+# Setup script for installing the module (packaging project)
